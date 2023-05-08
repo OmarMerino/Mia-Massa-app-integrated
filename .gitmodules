@@ -1,0 +1,6 @@
+[submodule "cliente"]
+	path = cliente
+	url = https://github.com/OmarMerino/miaMassaReact.git
+[submodule "servidor"]
+	path = servidor
+	url = https://github.com/OmarMerino/MiaMassa.git
